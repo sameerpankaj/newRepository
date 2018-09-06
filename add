@@ -1,0 +1,12 @@
+
+#include<stdio.h>
+int main()
+{
+int x=10,y=20,sum;
+scanf("%d%d",&x&y);
+sum=x+y;
+
+printf("sum of x and y is=%d",sum);
+getch();
+return 0;
+}

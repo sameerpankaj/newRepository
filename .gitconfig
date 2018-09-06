@@ -1,0 +1,13 @@
+[user]
+	email = sameer.pankaj@hcl.com
+	name = sameer
+[color]
+	id = true
+	branch = auto
+	status = auto
+[core]
+	editor = vim
+[merge]
+	tool = vimdiff
+[branch]
+	autosetuprebase = always
